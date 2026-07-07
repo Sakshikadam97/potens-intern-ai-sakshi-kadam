@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+pydantic
+streamlit
+sentence-transformers
+faiss-cpu
+pytest
