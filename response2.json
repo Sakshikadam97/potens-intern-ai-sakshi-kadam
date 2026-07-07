@@ -1,0 +1,14 @@
+{
+    "category": "Billing",
+    "priority": "P1",
+    "next_tool": "search_tool",
+    "reasoning": "The customer reported a duplicate payment.",
+    "why": "Billing problems require prompt investigation.",
+    "trace": [
+        "Detected billing issue",
+        "Assigned Billing category",
+        "Assigned P1 priority",
+        "Selected search_tool"
+    ],
+    "tool_output": "Found similar ticket: Payment charged twice."
+}
