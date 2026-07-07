@@ -1,0 +1,1 @@
+Application crashes when opening dashboard

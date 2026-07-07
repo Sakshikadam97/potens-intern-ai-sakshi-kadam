@@ -1,0 +1,5 @@
+{
+    "category": "Complaint",
+    "priority": "P2",
+    "next_tool": "draft_tool"
+}
